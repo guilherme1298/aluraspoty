@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  margin-bottom: 10px;
+
+}
+
+header {
+  border-bottom: solid 2px rgb(64, 231, 58);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(38, 255, 0);
+}
+
+section {
+  background: rgb(99, 98, 101);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display:right;
+  justify-content: left;
+}
+
+.chamada-texto {
+  margin-right: 5%;
+
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
+p {
+  font-size: 20px;
+}
+a {
+  height: 200px;
+}
+.categoria-videos {
+  display:flex;
+  overflow-x: auto;
+  gap: 10px;
+
+}
+.categoria{
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+
+}
+.categoria-videos img {
+  opacity: 0.5;
+  height: 200px
+}
+
+.categoria-videos img:hover {
+  opacity: 1.0;
+}
+.categoria-videos img:hover {
+  opacity: 1.0;
+}
+
